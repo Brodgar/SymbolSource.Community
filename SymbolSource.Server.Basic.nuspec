@@ -2,14 +2,14 @@
 <package >
   <metadata>
     <id>Vusion.SymbolSource.Server.Basic</id>
-    <version>1.2.2</version>
+    <version>1.2.3</version>
     <authors>SymbolSource, Vusion, Chris Hammons</authors>
     <owners>SymbolSource</owners>
-    <projectUrl>http://www.symbolsource.org/Public/Blog/View/2012-03-13/Releasing_the_community_edition_of_SymbolSource</projectUrl>
+    <projectUrl>https://github.com/chammonsvusion/SymbolSource.Community</projectUrl>
     <iconUrl>http://www.symbolsource.org/Content/logos/symbolsource.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
-      This is a fork of SymbolSource.Server.Basic ... should work with Nuget 3.5
+      This is a fork of SymbolSource.Server.Basic
     </description>
     <copyright>Copyright SymbolSource 2012</copyright>
     <tags>SymbolSource Debugging Debug Symbols Source Server PDB NuGet SrcSrv</tags>
